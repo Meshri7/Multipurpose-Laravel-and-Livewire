@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/app/Http/Livewire/Admin/Users/ListUsers.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/routes/web.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/app/Providers/BladeComponentServiceProvider.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/.env</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/livewire/admin/users/list-users.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/layouts/partials/navbar.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/layouts/partials/sidebar.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/app/Http/Controllers/Admin/DashboardController.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/layouts/partials/footer.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/config/app.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/resources/views/admin/dashboard.blade.php</file>
+            <file>file:/C:/Users/Admin/projects/larvel_livewire/app/Models/User.php</file>
+        </group>
+    </open-files>
+</project-private>
